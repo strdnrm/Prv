@@ -1,0 +1,17 @@
+E:\prv\task5\obj\Debug\net6.0-windows\task5.csproj.AssemblyReference.cache
+E:\prv\task5\obj\Debug\net6.0-windows\task5.Form1.resources
+E:\prv\task5\obj\Debug\net6.0-windows\task5.csproj.GenerateResource.cache
+E:\prv\task5\obj\Debug\net6.0-windows\task5.GeneratedMSBuildEditorConfig.editorconfig
+E:\prv\task5\obj\Debug\net6.0-windows\task5.AssemblyInfoInputs.cache
+E:\prv\task5\obj\Debug\net6.0-windows\task5.AssemblyInfo.cs
+E:\prv\task5\obj\Debug\net6.0-windows\task5.csproj.CoreCompileInputs.cache
+E:\prv\task5\bin\Debug\net6.0-windows\task5.exe
+E:\prv\task5\bin\Debug\net6.0-windows\task5.deps.json
+E:\prv\task5\bin\Debug\net6.0-windows\task5.runtimeconfig.json
+E:\prv\task5\bin\Debug\net6.0-windows\task5.dll
+E:\prv\task5\bin\Debug\net6.0-windows\task5.pdb
+E:\prv\task5\obj\Debug\net6.0-windows\task5.dll
+E:\prv\task5\obj\Debug\net6.0-windows\refint\task5.dll
+E:\prv\task5\obj\Debug\net6.0-windows\task5.pdb
+E:\prv\task5\obj\Debug\net6.0-windows\task5.genruntimeconfig.cache
+E:\prv\task5\obj\Debug\net6.0-windows\ref\task5.dll
